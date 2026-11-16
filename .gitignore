@@ -1,0 +1,20 @@
+# 密钥与账号信息（绝对不要上传）
+*.pem
+*.ppk
+key*.md
+**/key*.md
+**/key *.md
+
+# 工人手写单据照片（隐私）
+**/data/0origin/**
+**/data/manifest.json
+
+# 备份与压缩包
+*.zip
+*.bak
+*.tmp
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
